@@ -1,0 +1,301 @@
+feedback_id,customer_id,channel,product,rating,text,created_at
+1,CUST1228,chat,Checking Account,4,Switched to Checking Account last month and it's been smooth sailing so far.,2026-06-02 20:36:38
+2,CUST1030,email,Loan Service,4,Support resolved my issue with Loan Service within minutes. Excellent!,2026-05-19 20:36:38
+3,CUST1718,social_media,Savings Account,1,I'm frustrated with Savings Account — the app keeps crashing during login.,2026-04-23 20:36:38
+4,CUST1163,app_review,Savings Account,1,Hidden fees on my Savings Account statement again. Very disappointed.,2026-05-03 20:36:38
+5,CUST1094,app_review,Credit Card,4,Switched to Credit Card last month and it's been smooth sailing so far.,2026-06-03 20:36:38
+6,CUST1270,email,Credit Card,3,"Received a statement for Credit Card, reviewing the details now.",2026-04-18 20:36:38
+7,CUST1565,phone,Loan Service,4,Support resolved my issue with Loan Service within minutes. Excellent!,2026-03-27 20:36:38
+8,CUST1591,chat,Loan Service,3,"Used Loan Service to transfer funds, took the usual processing time.",2026-03-17 20:36:38
+9,CUST1081,chat,Checking Account,5,Really happy with my Checking Account. The app is easy to use and reliable.,2026-06-03 20:36:38
+10,CUST1379,phone,Mobile App,4,Switched to Mobile App last month and it's been smooth sailing so far.,2026-05-20 20:36:38
+11,CUST1623,chat,Credit Card,3,"Just opened a Credit Card, so far it's okay, nothing special.",2026-04-08 20:36:38
+12,CUST1947,social_media,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-05-18 20:36:38
+13,CUST1234,email,Credit Card,3,"Just opened a Credit Card, so far it's okay, nothing special.",2026-05-06 20:36:38
+14,CUST1217,app_review,Mobile App,5,Really happy with my Mobile App. The app is easy to use and reliable.,2026-04-26 20:36:38
+15,CUST1762,social_media,Mobile App,4,Really happy with my Mobile App. The app is easy to use and reliable.,2026-04-08 20:36:38
+16,CUST1919,social_media,Credit Card,3,"Curious about upgrading my Credit Card plan, what are the options?",2026-04-25 20:36:38
+17,CUST1093,email,Credit Card,5,Really happy with my Credit Card. The app is easy to use and reliable.,2026-06-01 20:36:38
+18,CUST1610,app_review,Savings Account,1,The Savings Account interface is confusing and support was unhelpful.,2026-04-09 20:36:38
+19,CUST1696,email,Credit Card,3,"Just opened a Credit Card, so far it's okay, nothing special.",2026-03-20 20:36:38
+20,CUST1114,phone,Loan Service,3,"Used Loan Service to transfer funds, took the usual processing time.",2026-04-21 20:36:38
+21,CUST1108,phone,Savings Account,1,Hidden fees on my Savings Account statement again. Very disappointed.,2026-03-26 20:36:38
+22,CUST1552,social_media,Loan Service,2,Waited over an hour on the phone about Loan Service and nobody helped.,2026-06-15 20:36:38
+23,CUST1951,phone,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-05-07 20:36:38
+24,CUST1087,app_review,Savings Account,4,Love the new features on Savings Account. Would recommend to friends.,2026-06-07 20:36:38
+25,CUST1675,app_review,Loan Service,3,Question about how interest is calculated on Loan Service.,2026-04-06 20:36:38
+26,CUST1987,chat,Savings Account,5,Love the new features on Savings Account. Would recommend to friends.,2026-04-07 20:36:38
+27,CUST1687,phone,Savings Account,3,"Curious about upgrading my Savings Account plan, what are the options?",2026-04-20 20:36:38
+28,CUST1602,social_media,Loan Service,1,Waited over an hour on the phone about Loan Service and nobody helped. This is urgent.,2026-05-17 20:36:38
+29,CUST1234,email,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-06-11 20:36:38
+30,CUST1685,app_review,Credit Card,5,Really happy with my Credit Card. The app is easy to use and reliable.,2026-05-19 20:36:38
+31,CUST1248,app_review,Loan Service,5,Love the new features on Loan Service. Would recommend to friends.,2026-04-24 20:36:38
+32,CUST1433,app_review,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-04-17 20:36:38
+33,CUST1347,email,Checking Account,1,I'm frustrated with Checking Account — the app keeps crashing during login.,2026-05-15 20:36:38
+34,CUST1432,chat,Savings Account,4,Support resolved my issue with Savings Account within minutes. Excellent!,2026-05-11 20:36:38
+35,CUST1827,social_media,Mobile App,5,"The Mobile App has been great, customer service was fast and helpful.",2026-06-03 20:36:38
+36,CUST1948,chat,Checking Account,1,"My Checking Account payment failed twice this week, urgent issue needs fixing.",2026-05-25 20:36:38
+37,CUST1168,app_review,Mobile App,2,Waited over an hour on the phone about Mobile App and nobody helped.,2026-06-15 20:36:38
+38,CUST1433,social_media,Mobile App,5,Support resolved my issue with Mobile App within minutes. Excellent!,2026-03-23 20:36:38
+39,CUST1991,email,Mobile App,4,Switched to Mobile App last month and it's been smooth sailing so far.,2026-04-02 20:36:38
+40,CUST1051,social_media,Loan Service,4,Switched to Loan Service last month and it's been smooth sailing so far.,2026-04-15 20:36:38
+41,CUST1161,email,Loan Service,3,"Received a statement for Loan Service, reviewing the details now.",2026-04-11 20:36:38
+42,CUST1609,email,Checking Account,3,"Just opened a Checking Account, so far it's okay, nothing special.",2026-03-21 20:36:38
+43,CUST1040,social_media,Savings Account,1,"My Savings Account payment failed twice this week, urgent issue needs fixing.",2026-06-05 20:36:38
+44,CUST1209,phone,Mobile App,2,"My Mobile App payment failed twice this week, urgent issue needs fixing.",2026-05-16 20:36:38
+45,CUST1769,email,Credit Card,2,Hidden fees on my Credit Card statement again. Very disappointed.,2026-06-14 20:36:38
+46,CUST1518,phone,Mobile App,1,"My Mobile App payment failed twice this week, urgent issue needs fixing. This is immediately.",2026-05-30 20:36:38
+47,CUST1378,phone,Credit Card,3,Question about how interest is calculated on Credit Card.,2026-05-26 20:36:38
+48,CUST1626,social_media,Mobile App,3,"Used Mobile App to transfer funds, took the usual processing time.",2026-06-14 20:36:38
+49,CUST1270,email,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-06-02 20:36:38
+50,CUST1734,phone,Loan Service,4,Switched to Loan Service last month and it's been smooth sailing so far.,2026-05-20 20:36:38
+51,CUST1849,phone,Credit Card,1,Hidden fees on my Credit Card statement again. Very disappointed. This is fraud.,2026-06-10 20:36:38
+52,CUST1165,app_review,Checking Account,5,Really happy with my Checking Account. The app is easy to use and reliable.,2026-04-06 20:36:38
+53,CUST1707,chat,Mobile App,1,I'm frustrated with Mobile App — the app keeps crashing during login.,2026-04-07 20:36:38
+54,CUST1565,chat,Checking Account,3,"Received a statement for Checking Account, reviewing the details now.",2026-04-21 20:36:38
+55,CUST1920,phone,Savings Account,4,Switched to Savings Account last month and it's been smooth sailing so far.,2026-05-20 20:36:38
+56,CUST1767,chat,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed.,2026-05-16 20:36:38
+57,CUST1902,app_review,Savings Account,3,Question about how interest is calculated on Savings Account.,2026-06-12 20:36:38
+58,CUST1801,app_review,Savings Account,3,"Used Savings Account to transfer funds, took the usual processing time.",2026-03-22 20:36:38
+59,CUST1893,email,Savings Account,5,"The Savings Account has been great, customer service was fast and helpful.",2026-04-16 20:36:38
+60,CUST1312,chat,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-05-18 20:36:38
+61,CUST1071,phone,Checking Account,2,The Checking Account interface is confusing and support was unhelpful.,2026-05-02 20:36:38
+62,CUST1118,phone,Loan Service,2,"My Loan Service payment failed twice this week, urgent issue needs fixing.",2026-05-24 20:36:38
+63,CUST1039,email,Loan Service,3,"Used Loan Service to transfer funds, took the usual processing time.",2026-03-31 20:36:38
+64,CUST1620,social_media,Mobile App,5,Switched to Mobile App last month and it's been smooth sailing so far.,2026-06-01 20:36:38
+65,CUST1260,email,Mobile App,3,Question about how interest is calculated on Mobile App.,2026-03-17 20:36:38
+66,CUST1372,app_review,Mobile App,4,Love the new features on Mobile App. Would recommend to friends.,2026-06-07 20:36:38
+67,CUST1682,app_review,Credit Card,2,I'm frustrated with Credit Card — the app keeps crashing during login.,2026-05-05 20:36:38
+68,CUST1680,app_review,Mobile App,1,"My Mobile App payment failed twice this week, urgent issue needs fixing.",2026-03-21 20:36:38
+69,CUST1000,phone,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed.,2026-05-10 20:36:38
+70,CUST1452,chat,Savings Account,2,"My Savings Account payment failed twice this week, urgent issue needs fixing.",2026-04-11 20:36:38
+71,CUST1674,email,Mobile App,3,Question about how interest is calculated on Mobile App.,2026-05-10 20:36:38
+72,CUST1688,phone,Loan Service,2,"My Loan Service payment failed twice this week, urgent issue needs fixing. This is immediately.",2026-05-18 20:36:38
+73,CUST1486,social_media,Savings Account,4,"The Savings Account has been great, customer service was fast and helpful.",2026-06-06 20:36:38
+74,CUST1393,app_review,Mobile App,1,"My Mobile App payment failed twice this week, urgent issue needs fixing.",2026-04-25 20:36:38
+75,CUST1797,app_review,Savings Account,4,"The Savings Account has been great, customer service was fast and helpful.",2026-05-18 20:36:38
+76,CUST1475,email,Savings Account,3,"Received a statement for Savings Account, reviewing the details now.",2026-04-05 20:36:38
+77,CUST1467,chat,Savings Account,3,"Just opened a Savings Account, so far it's okay, nothing special.",2026-04-17 20:36:38
+78,CUST1324,app_review,Loan Service,3,"Received a statement for Loan Service, reviewing the details now.",2026-03-29 20:36:38
+79,CUST1761,app_review,Loan Service,2,"My Loan Service payment failed twice this week, urgent issue needs fixing.",2026-04-19 20:36:38
+80,CUST1784,social_media,Credit Card,3,"Used Credit Card to transfer funds, took the usual processing time.",2026-04-14 20:36:38
+81,CUST1240,phone,Savings Account,5,"The Savings Account has been great, customer service was fast and helpful.",2026-05-04 20:36:38
+82,CUST1141,chat,Credit Card,3,"Just opened a Credit Card, so far it's okay, nothing special.",2026-05-17 20:36:38
+83,CUST1338,social_media,Mobile App,1,Waited over an hour on the phone about Mobile App and nobody helped.,2026-04-17 20:36:38
+84,CUST1926,social_media,Mobile App,5,Support resolved my issue with Mobile App within minutes. Excellent!,2026-03-18 20:36:38
+85,CUST1389,app_review,Checking Account,3,"Received a statement for Checking Account, reviewing the details now.",2026-06-15 20:36:38
+86,CUST1551,social_media,Credit Card,5,Support resolved my issue with Credit Card within minutes. Excellent!,2026-03-30 20:36:38
+87,CUST1398,phone,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed.,2026-03-22 20:36:38
+88,CUST1941,chat,Mobile App,3,"Curious about upgrading my Mobile App plan, what are the options?",2026-03-28 20:36:38
+89,CUST1085,app_review,Loan Service,4,Support resolved my issue with Loan Service within minutes. Excellent!,2026-05-29 20:36:38
+90,CUST1335,chat,Mobile App,5,Switched to Mobile App last month and it's been smooth sailing so far.,2026-04-18 20:36:38
+91,CUST1770,app_review,Credit Card,5,Support resolved my issue with Credit Card within minutes. Excellent!,2026-05-14 20:36:38
+92,CUST1358,chat,Checking Account,1,"My Checking Account payment failed twice this week, urgent issue needs fixing.",2026-03-24 20:36:38
+93,CUST1772,email,Checking Account,3,"Just opened a Checking Account, so far it's okay, nothing special.",2026-05-15 20:36:38
+94,CUST1156,chat,Savings Account,3,"Received a statement for Savings Account, reviewing the details now.",2026-05-30 20:36:38
+95,CUST1262,phone,Mobile App,1,"My Mobile App payment failed twice this week, urgent issue needs fixing.",2026-05-25 20:36:38
+96,CUST1110,social_media,Loan Service,1,I'm frustrated with Loan Service — the app keeps crashing during login.,2026-06-12 20:36:38
+97,CUST1203,email,Credit Card,2,The Credit Card interface is confusing and support was unhelpful.,2026-04-01 20:36:38
+98,CUST1815,social_media,Savings Account,4,Switched to Savings Account last month and it's been smooth sailing so far.,2026-06-10 20:36:38
+99,CUST1349,email,Credit Card,1,Hidden fees on my Credit Card statement again. Very disappointed.,2026-04-23 20:36:38
+100,CUST1724,chat,Mobile App,5,Switched to Mobile App last month and it's been smooth sailing so far.,2026-04-21 20:36:38
+101,CUST1630,social_media,Savings Account,3,"Used Savings Account to transfer funds, took the usual processing time.",2026-04-15 20:36:38
+102,CUST1251,email,Mobile App,2,"My Mobile App payment failed twice this week, urgent issue needs fixing.",2026-05-11 20:36:38
+103,CUST1344,email,Mobile App,5,Support resolved my issue with Mobile App within minutes. Excellent!,2026-04-13 20:36:38
+104,CUST1816,phone,Credit Card,5,Really happy with my Credit Card. The app is easy to use and reliable.,2026-05-03 20:36:38
+105,CUST1569,email,Credit Card,3,"Used Credit Card to transfer funds, took the usual processing time.",2026-04-10 20:36:38
+106,CUST1568,chat,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-03-19 20:36:38
+107,CUST1095,phone,Mobile App,2,The Mobile App interface is confusing and support was unhelpful.,2026-05-18 20:36:38
+108,CUST1543,phone,Mobile App,2,Hidden fees on my Mobile App statement again. Very disappointed.,2026-04-22 20:36:38
+109,CUST1313,phone,Loan Service,5,Support resolved my issue with Loan Service within minutes. Excellent!,2026-05-17 20:36:38
+110,CUST1122,social_media,Checking Account,3,"Used Checking Account to transfer funds, took the usual processing time.",2026-03-19 20:36:38
+111,CUST1741,social_media,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-04-09 20:36:38
+112,CUST1303,chat,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-04-30 20:36:38
+113,CUST1280,email,Savings Account,4,Love the new features on Savings Account. Would recommend to friends.,2026-06-09 20:36:38
+114,CUST1105,email,Loan Service,5,Really happy with my Loan Service. The app is easy to use and reliable.,2026-04-03 20:36:38
+115,CUST1052,phone,Credit Card,2,The Credit Card interface is confusing and support was unhelpful.,2026-04-15 20:36:38
+116,CUST1503,email,Checking Account,3,"Curious about upgrading my Checking Account plan, what are the options?",2026-04-03 20:36:38
+117,CUST1087,chat,Checking Account,5,Love the new features on Checking Account. Would recommend to friends.,2026-05-31 20:36:38
+118,CUST1610,social_media,Loan Service,3,"Received a statement for Loan Service, reviewing the details now.",2026-05-18 20:36:38
+119,CUST1439,phone,Loan Service,2,The Loan Service interface is confusing and support was unhelpful.,2026-04-04 20:36:38
+120,CUST1640,chat,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-05-13 20:36:38
+121,CUST1160,email,Checking Account,4,Really happy with my Checking Account. The app is easy to use and reliable.,2026-04-24 20:36:38
+122,CUST1723,phone,Mobile App,2,The Mobile App interface is confusing and support was unhelpful. This is asap.,2026-03-18 20:36:38
+123,CUST1806,social_media,Mobile App,5,Really happy with my Mobile App. The app is easy to use and reliable.,2026-03-23 20:36:38
+124,CUST1930,phone,Savings Account,1,"My Savings Account payment failed twice this week, urgent issue needs fixing.",2026-05-28 20:36:38
+125,CUST1449,email,Checking Account,5,Switched to Checking Account last month and it's been smooth sailing so far.,2026-04-17 20:36:38
+126,CUST1612,email,Credit Card,2,Hidden fees on my Credit Card statement again. Very disappointed.,2026-04-21 20:36:38
+127,CUST1690,social_media,Credit Card,1,I'm frustrated with Credit Card — the app keeps crashing during login.,2026-04-01 20:36:38
+128,CUST1590,email,Checking Account,3,"Used Checking Account to transfer funds, took the usual processing time.",2026-05-24 20:36:38
+129,CUST1599,app_review,Mobile App,2,The Mobile App interface is confusing and support was unhelpful.,2026-03-26 20:36:38
+130,CUST1356,app_review,Mobile App,3,"Curious about upgrading my Mobile App plan, what are the options?",2026-05-04 20:36:38
+131,CUST1507,phone,Credit Card,2,Waited over an hour on the phone about Credit Card and nobody helped.,2026-03-23 20:36:38
+132,CUST1037,app_review,Mobile App,3,"Received a statement for Mobile App, reviewing the details now.",2026-06-04 20:36:38
+133,CUST1885,social_media,Credit Card,5,"The Credit Card has been great, customer service was fast and helpful.",2026-06-15 20:36:38
+134,CUST1637,app_review,Loan Service,1,I'm frustrated with Loan Service — the app keeps crashing during login.,2026-03-27 20:36:38
+135,CUST1273,social_media,Mobile App,3,Question about how interest is calculated on Mobile App.,2026-05-30 20:36:38
+136,CUST1818,chat,Credit Card,1,The Credit Card interface is confusing and support was unhelpful. This is unauthorized.,2026-03-17 20:36:38
+137,CUST1095,chat,Savings Account,5,"The Savings Account has been great, customer service was fast and helpful.",2026-06-01 20:36:38
+138,CUST1510,phone,Mobile App,3,Question about how interest is calculated on Mobile App.,2026-04-11 20:36:38
+139,CUST1564,chat,Credit Card,2,The Credit Card interface is confusing and support was unhelpful.,2026-04-27 20:36:38
+140,CUST1764,chat,Savings Account,3,"Received a statement for Savings Account, reviewing the details now.",2026-06-07 20:36:38
+141,CUST1348,social_media,Credit Card,3,"Curious about upgrading my Credit Card plan, what are the options?",2026-05-12 20:36:38
+142,CUST1886,chat,Checking Account,5,Switched to Checking Account last month and it's been smooth sailing so far.,2026-04-19 20:36:38
+143,CUST1329,chat,Loan Service,2,Hidden fees on my Loan Service statement again. Very disappointed.,2026-03-18 20:36:38
+144,CUST1722,app_review,Savings Account,2,Waited over an hour on the phone about Savings Account and nobody helped. This is fraud.,2026-04-27 20:36:38
+145,CUST1604,phone,Savings Account,1,I'm frustrated with Savings Account — the app keeps crashing during login.,2026-06-03 20:36:38
+146,CUST1739,chat,Mobile App,4,Support resolved my issue with Mobile App within minutes. Excellent!,2026-04-24 20:36:38
+147,CUST1638,app_review,Savings Account,5,Switched to Savings Account last month and it's been smooth sailing so far.,2026-03-24 20:36:38
+148,CUST1389,phone,Checking Account,3,"Received a statement for Checking Account, reviewing the details now.",2026-03-27 20:36:38
+149,CUST1632,email,Mobile App,3,"Just opened a Mobile App, so far it's okay, nothing special.",2026-05-16 20:36:38
+150,CUST1444,email,Credit Card,3,"Just opened a Credit Card, so far it's okay, nothing special.",2026-03-26 20:36:38
+151,CUST1300,phone,Checking Account,1,Hidden fees on my Checking Account statement again. Very disappointed. This is urgent.,2026-04-29 20:36:38
+152,CUST1579,chat,Mobile App,5,Love the new features on Mobile App. Would recommend to friends.,2026-05-25 20:36:38
+153,CUST1509,social_media,Savings Account,4,Support resolved my issue with Savings Account within minutes. Excellent!,2026-05-28 20:36:38
+154,CUST1009,app_review,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed.,2026-05-10 20:36:38
+155,CUST1601,phone,Loan Service,5,Support resolved my issue with Loan Service within minutes. Excellent!,2026-03-26 20:36:38
+156,CUST1393,app_review,Mobile App,2,The Mobile App interface is confusing and support was unhelpful.,2026-06-02 20:36:38
+157,CUST1302,email,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed.,2026-03-23 20:36:38
+158,CUST1932,social_media,Mobile App,4,Love the new features on Mobile App. Would recommend to friends.,2026-04-13 20:36:38
+159,CUST1621,phone,Credit Card,3,Question about how interest is calculated on Credit Card.,2026-05-18 20:36:38
+160,CUST1661,email,Savings Account,1,Waited over an hour on the phone about Savings Account and nobody helped.,2026-05-07 20:36:38
+161,CUST1092,phone,Mobile App,4,Switched to Mobile App last month and it's been smooth sailing so far.,2026-05-05 20:36:38
+162,CUST1543,social_media,Mobile App,5,Really happy with my Mobile App. The app is easy to use and reliable.,2026-05-12 20:36:38
+163,CUST1764,phone,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-06-01 20:36:38
+164,CUST1772,chat,Mobile App,3,Question about how interest is calculated on Mobile App.,2026-03-21 20:36:38
+165,CUST1374,email,Mobile App,3,"Received a statement for Mobile App, reviewing the details now.",2026-04-26 20:36:38
+166,CUST1377,phone,Checking Account,5,"The Checking Account has been great, customer service was fast and helpful.",2026-04-02 20:36:38
+167,CUST1110,chat,Mobile App,3,"Used Mobile App to transfer funds, took the usual processing time.",2026-04-16 20:36:38
+168,CUST1226,email,Checking Account,2,"My Checking Account payment failed twice this week, urgent issue needs fixing.",2026-03-26 20:36:38
+169,CUST1664,app_review,Mobile App,3,"Used Mobile App to transfer funds, took the usual processing time.",2026-06-01 20:36:38
+170,CUST1504,email,Savings Account,5,"The Savings Account has been great, customer service was fast and helpful.",2026-06-03 20:36:38
+171,CUST1397,app_review,Savings Account,3,Question about how interest is calculated on Savings Account.,2026-04-29 20:36:38
+172,CUST1853,app_review,Loan Service,2,Waited over an hour on the phone about Loan Service and nobody helped.,2026-03-29 20:36:38
+173,CUST1033,phone,Mobile App,3,"Used Mobile App to transfer funds, took the usual processing time.",2026-05-19 20:36:38
+174,CUST1557,phone,Mobile App,2,Waited over an hour on the phone about Mobile App and nobody helped. This is asap.,2026-06-08 20:36:38
+175,CUST1093,chat,Mobile App,5,"The Mobile App has been great, customer service was fast and helpful.",2026-03-25 20:36:38
+176,CUST1805,phone,Loan Service,3,"Just opened a Loan Service, so far it's okay, nothing special.",2026-05-15 20:36:38
+177,CUST1070,social_media,Savings Account,3,Question about how interest is calculated on Savings Account.,2026-05-20 20:36:38
+178,CUST1792,chat,Loan Service,5,Really happy with my Loan Service. The app is easy to use and reliable.,2026-03-31 20:36:38
+179,CUST1553,phone,Checking Account,4,Really happy with my Checking Account. The app is easy to use and reliable.,2026-05-24 20:36:38
+180,CUST1602,phone,Checking Account,1,I'm frustrated with Checking Account — the app keeps crashing during login. This is immediately.,2026-06-13 20:36:38
+181,CUST1538,email,Savings Account,5,Really happy with my Savings Account. The app is easy to use and reliable.,2026-06-07 20:36:38
+182,CUST1226,social_media,Mobile App,1,Hidden fees on my Mobile App statement again. Very disappointed.,2026-06-10 20:36:38
+183,CUST1490,app_review,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-04-22 20:36:38
+184,CUST1329,social_media,Checking Account,1,The Checking Account interface is confusing and support was unhelpful.,2026-05-28 20:36:38
+185,CUST1390,social_media,Checking Account,5,Love the new features on Checking Account. Would recommend to friends.,2026-04-09 20:36:38
+186,CUST1873,social_media,Credit Card,2,"My Credit Card payment failed twice this week, urgent issue needs fixing. This is urgent.",2026-05-19 20:36:38
+187,CUST1464,app_review,Mobile App,2,Waited over an hour on the phone about Mobile App and nobody helped.,2026-04-23 20:36:38
+188,CUST1383,chat,Checking Account,5,Switched to Checking Account last month and it's been smooth sailing so far.,2026-03-20 20:36:38
+189,CUST1442,email,Mobile App,4,"The Mobile App has been great, customer service was fast and helpful.",2026-04-29 20:36:38
+190,CUST1420,phone,Savings Account,2,"My Savings Account payment failed twice this week, urgent issue needs fixing.",2026-03-22 20:36:38
+191,CUST1991,phone,Mobile App,3,"Just opened a Mobile App, so far it's okay, nothing special.",2026-03-31 20:36:38
+192,CUST1493,chat,Credit Card,1,"My Credit Card payment failed twice this week, urgent issue needs fixing.",2026-06-02 20:36:38
+193,CUST1117,phone,Credit Card,3,"Used Credit Card to transfer funds, took the usual processing time.",2026-04-03 20:36:38
+194,CUST1997,social_media,Savings Account,3,"Received a statement for Savings Account, reviewing the details now.",2026-03-29 20:36:38
+195,CUST1184,phone,Loan Service,4,Switched to Loan Service last month and it's been smooth sailing so far.,2026-03-18 20:36:38
+196,CUST1006,chat,Credit Card,3,"Used Credit Card to transfer funds, took the usual processing time.",2026-05-28 20:36:38
+197,CUST1995,email,Loan Service,1,I'm frustrated with Loan Service — the app keeps crashing during login.,2026-06-04 20:36:38
+198,CUST1349,chat,Loan Service,5,Support resolved my issue with Loan Service within minutes. Excellent!,2026-04-29 20:36:38
+199,CUST1610,email,Credit Card,3,"Received a statement for Credit Card, reviewing the details now.",2026-06-09 20:36:38
+200,CUST1690,email,Savings Account,4,Love the new features on Savings Account. Would recommend to friends.,2026-05-12 20:36:38
+201,CUST1220,social_media,Mobile App,2,The Mobile App interface is confusing and support was unhelpful.,2026-06-01 20:36:38
+202,CUST1315,email,Credit Card,2,Hidden fees on my Credit Card statement again. Very disappointed.,2026-05-18 20:36:38
+203,CUST1007,chat,Mobile App,3,"Just opened a Mobile App, so far it's okay, nothing special.",2026-05-08 20:36:38
+204,CUST1296,phone,Savings Account,3,"Used Savings Account to transfer funds, took the usual processing time.",2026-05-31 20:36:38
+205,CUST1720,chat,Checking Account,1,The Checking Account interface is confusing and support was unhelpful. This is unauthorized.,2026-04-12 20:36:38
+206,CUST1073,app_review,Loan Service,3,"Used Loan Service to transfer funds, took the usual processing time.",2026-06-10 20:36:38
+207,CUST1589,app_review,Mobile App,5,"The Mobile App has been great, customer service was fast and helpful.",2026-04-03 20:36:38
+208,CUST1296,email,Mobile App,3,"Curious about upgrading my Mobile App plan, what are the options?",2026-04-25 20:36:38
+209,CUST1820,social_media,Checking Account,3,Question about how interest is calculated on Checking Account.,2026-04-18 20:36:38
+210,CUST1446,social_media,Credit Card,4,"The Credit Card has been great, customer service was fast and helpful.",2026-04-25 20:36:38
+211,CUST1226,phone,Loan Service,5,Switched to Loan Service last month and it's been smooth sailing so far.,2026-05-25 20:36:38
+212,CUST1357,phone,Checking Account,1,I'm frustrated with Checking Account — the app keeps crashing during login.,2026-03-25 20:36:38
+213,CUST1202,chat,Savings Account,5,Really happy with my Savings Account. The app is easy to use and reliable.,2026-03-30 20:36:38
+214,CUST1181,app_review,Savings Account,3,"Just opened a Savings Account, so far it's okay, nothing special.",2026-04-17 20:36:38
+215,CUST1697,social_media,Loan Service,3,"Curious about upgrading my Loan Service plan, what are the options?",2026-03-25 20:36:38
+216,CUST1450,email,Loan Service,4,Switched to Loan Service last month and it's been smooth sailing so far.,2026-04-16 20:36:38
+217,CUST1075,phone,Mobile App,1,Hidden fees on my Mobile App statement again. Very disappointed.,2026-04-17 20:36:38
+218,CUST1078,email,Mobile App,5,Switched to Mobile App last month and it's been smooth sailing so far.,2026-03-29 20:36:38
+219,CUST1829,social_media,Loan Service,1,The Loan Service interface is confusing and support was unhelpful.,2026-03-24 20:36:38
+220,CUST1980,email,Savings Account,4,Support resolved my issue with Savings Account within minutes. Excellent!,2026-04-19 20:36:38
+221,CUST1731,email,Checking Account,3,"Used Checking Account to transfer funds, took the usual processing time.",2026-04-12 20:36:38
+222,CUST1536,social_media,Savings Account,5,Support resolved my issue with Savings Account within minutes. Excellent!,2026-03-29 20:36:38
+223,CUST1346,social_media,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed.,2026-06-09 20:36:38
+224,CUST1290,phone,Credit Card,5,"The Credit Card has been great, customer service was fast and helpful.",2026-03-23 20:36:38
+225,CUST1083,social_media,Loan Service,3,"Used Loan Service to transfer funds, took the usual processing time.",2026-03-23 20:36:38
+226,CUST1990,app_review,Savings Account,3,"Used Savings Account to transfer funds, took the usual processing time.",2026-05-30 20:36:38
+227,CUST1317,social_media,Loan Service,3,"Just opened a Loan Service, so far it's okay, nothing special.",2026-04-28 20:36:38
+228,CUST1095,app_review,Credit Card,3,"Received a statement for Credit Card, reviewing the details now.",2026-04-11 20:36:38
+229,CUST1973,chat,Credit Card,4,Switched to Credit Card last month and it's been smooth sailing so far.,2026-05-03 20:36:38
+230,CUST1079,phone,Mobile App,4,Really happy with my Mobile App. The app is easy to use and reliable.,2026-06-03 20:36:38
+231,CUST1038,phone,Loan Service,3,"Received a statement for Loan Service, reviewing the details now.",2026-03-28 20:36:38
+232,CUST1709,social_media,Savings Account,1,Waited over an hour on the phone about Savings Account and nobody helped.,2026-05-25 20:36:38
+233,CUST1992,app_review,Mobile App,4,Switched to Mobile App last month and it's been smooth sailing so far.,2026-03-29 20:36:38
+234,CUST1239,social_media,Credit Card,3,"Curious about upgrading my Credit Card plan, what are the options?",2026-05-16 20:36:38
+235,CUST1925,chat,Credit Card,3,"Curious about upgrading my Credit Card plan, what are the options?",2026-04-29 20:36:38
+236,CUST1787,phone,Loan Service,3,"Curious about upgrading my Loan Service plan, what are the options?",2026-04-28 20:36:38
+237,CUST1141,phone,Loan Service,1,Waited over an hour on the phone about Loan Service and nobody helped.,2026-06-09 20:36:38
+238,CUST1956,email,Mobile App,3,"Received a statement for Mobile App, reviewing the details now.",2026-04-10 20:36:38
+239,CUST1460,social_media,Checking Account,5,Really happy with my Checking Account. The app is easy to use and reliable.,2026-05-28 20:36:38
+240,CUST1905,phone,Mobile App,5,Really happy with my Mobile App. The app is easy to use and reliable.,2026-06-12 20:36:38
+241,CUST1241,app_review,Mobile App,5,Love the new features on Mobile App. Would recommend to friends.,2026-06-05 20:36:38
+242,CUST1859,phone,Credit Card,4,Switched to Credit Card last month and it's been smooth sailing so far.,2026-05-28 20:36:38
+243,CUST1777,app_review,Savings Account,4,Support resolved my issue with Savings Account within minutes. Excellent!,2026-04-19 20:36:38
+244,CUST1262,chat,Loan Service,4,"The Loan Service has been great, customer service was fast and helpful.",2026-05-27 20:36:38
+245,CUST1540,app_review,Loan Service,3,"Received a statement for Loan Service, reviewing the details now.",2026-06-01 20:36:38
+246,CUST1244,app_review,Credit Card,4,"The Credit Card has been great, customer service was fast and helpful.",2026-03-26 20:36:38
+247,CUST1016,social_media,Loan Service,2,I'm frustrated with Loan Service — the app keeps crashing during login.,2026-04-03 20:36:38
+248,CUST1439,email,Savings Account,3,"Used Savings Account to transfer funds, took the usual processing time.",2026-03-29 20:36:38
+249,CUST1680,email,Credit Card,4,Support resolved my issue with Credit Card within minutes. Excellent!,2026-04-09 20:36:38
+250,CUST1399,app_review,Credit Card,4,Love the new features on Credit Card. Would recommend to friends.,2026-06-10 20:36:38
+251,CUST1765,email,Mobile App,3,"Used Mobile App to transfer funds, took the usual processing time.",2026-05-01 20:36:38
+252,CUST1136,email,Checking Account,5,"The Checking Account has been great, customer service was fast and helpful.",2026-05-01 20:36:38
+253,CUST1712,app_review,Loan Service,5,Really happy with my Loan Service. The app is easy to use and reliable.,2026-03-27 20:36:38
+254,CUST1733,app_review,Savings Account,3,"Just opened a Savings Account, so far it's okay, nothing special.",2026-06-11 20:36:38
+255,CUST1323,phone,Credit Card,4,Really happy with my Credit Card. The app is easy to use and reliable.,2026-04-11 20:36:38
+256,CUST1484,phone,Mobile App,3,"Received a statement for Mobile App, reviewing the details now.",2026-06-11 20:36:38
+257,CUST1279,email,Savings Account,5,"The Savings Account has been great, customer service was fast and helpful.",2026-04-29 20:36:38
+258,CUST1916,app_review,Mobile App,3,"Curious about upgrading my Mobile App plan, what are the options?",2026-05-03 20:36:38
+259,CUST1531,phone,Savings Account,2,The Savings Account interface is confusing and support was unhelpful.,2026-06-05 20:36:38
+260,CUST1558,phone,Mobile App,4,Love the new features on Mobile App. Would recommend to friends.,2026-05-05 20:36:38
+261,CUST1456,social_media,Checking Account,5,Switched to Checking Account last month and it's been smooth sailing so far.,2026-04-22 20:36:38
+262,CUST1629,app_review,Savings Account,2,Hidden fees on my Savings Account statement again. Very disappointed. This is asap.,2026-05-11 20:36:38
+263,CUST1525,chat,Checking Account,5,Support resolved my issue with Checking Account within minutes. Excellent!,2026-06-12 20:36:38
+264,CUST1035,chat,Savings Account,3,"Curious about upgrading my Savings Account plan, what are the options?",2026-06-07 20:36:38
+265,CUST1370,app_review,Savings Account,3,"Used Savings Account to transfer funds, took the usual processing time.",2026-04-04 20:36:38
+266,CUST1781,email,Checking Account,2,The Checking Account interface is confusing and support was unhelpful.,2026-04-03 20:36:38
+267,CUST1255,email,Savings Account,2,The Savings Account interface is confusing and support was unhelpful.,2026-06-12 20:36:38
+268,CUST1266,app_review,Savings Account,1,The Savings Account interface is confusing and support was unhelpful.,2026-05-19 20:36:38
+269,CUST1125,chat,Loan Service,4,Support resolved my issue with Loan Service within minutes. Excellent!,2026-06-06 20:36:38
+270,CUST1829,phone,Mobile App,4,Support resolved my issue with Mobile App within minutes. Excellent!,2026-03-22 20:36:38
+271,CUST1555,phone,Credit Card,3,"Received a statement for Credit Card, reviewing the details now.",2026-05-08 20:36:38
+272,CUST1812,phone,Savings Account,3,Question about how interest is calculated on Savings Account.,2026-04-11 20:36:38
+273,CUST1242,app_review,Savings Account,4,Really happy with my Savings Account. The app is easy to use and reliable.,2026-06-12 20:36:38
+274,CUST1564,chat,Credit Card,2,Hidden fees on my Credit Card statement again. Very disappointed.,2026-03-29 20:36:38
+275,CUST1538,app_review,Checking Account,5,Support resolved my issue with Checking Account within minutes. Excellent!,2026-04-24 20:36:38
+276,CUST1460,app_review,Loan Service,4,Switched to Loan Service last month and it's been smooth sailing so far.,2026-03-20 20:36:38
+277,CUST1786,chat,Loan Service,4,Love the new features on Loan Service. Would recommend to friends.,2026-04-21 20:36:38
+278,CUST1851,email,Loan Service,3,"Just opened a Loan Service, so far it's okay, nothing special.",2026-04-10 20:36:38
+279,CUST1957,chat,Savings Account,5,Really happy with my Savings Account. The app is easy to use and reliable.,2026-05-02 20:36:38
+280,CUST1256,chat,Loan Service,3,"Just opened a Loan Service, so far it's okay, nothing special.",2026-03-26 20:36:38
+281,CUST1514,chat,Loan Service,4,Switched to Loan Service last month and it's been smooth sailing so far.,2026-04-01 20:36:38
+282,CUST1862,social_media,Loan Service,5,Love the new features on Loan Service. Would recommend to friends.,2026-06-10 20:36:38
+283,CUST1666,chat,Checking Account,5,Love the new features on Checking Account. Would recommend to friends.,2026-04-03 20:36:38
+284,CUST1558,phone,Mobile App,2,I'm frustrated with Mobile App — the app keeps crashing during login.,2026-03-25 20:36:38
+285,CUST1705,email,Credit Card,2,The Credit Card interface is confusing and support was unhelpful.,2026-05-26 20:36:38
+286,CUST1147,phone,Mobile App,1,The Mobile App interface is confusing and support was unhelpful.,2026-05-06 20:36:38
+287,CUST1778,phone,Credit Card,3,Question about how interest is calculated on Credit Card.,2026-04-11 20:36:38
+288,CUST1125,phone,Loan Service,5,Really happy with my Loan Service. The app is easy to use and reliable.,2026-04-19 20:36:38
+289,CUST1968,app_review,Savings Account,5,"The Savings Account has been great, customer service was fast and helpful.",2026-03-29 20:36:38
+290,CUST1956,social_media,Mobile App,5,Really happy with my Mobile App. The app is easy to use and reliable.,2026-05-06 20:36:38
+291,CUST1527,app_review,Savings Account,3,"Curious about upgrading my Savings Account plan, what are the options?",2026-04-13 20:36:38
+292,CUST1989,chat,Credit Card,2,I'm frustrated with Credit Card — the app keeps crashing during login.,2026-05-19 20:36:38
+293,CUST1903,app_review,Loan Service,2,I'm frustrated with Loan Service — the app keeps crashing during login.,2026-05-10 20:36:38
+294,CUST1137,phone,Loan Service,5,"The Loan Service has been great, customer service was fast and helpful.",2026-04-30 20:36:38
+295,CUST1199,phone,Mobile App,1,The Mobile App interface is confusing and support was unhelpful.,2026-04-06 20:36:38
+296,CUST1782,social_media,Credit Card,5,Love the new features on Credit Card. Would recommend to friends.,2026-05-11 20:36:38
+297,CUST1403,phone,Loan Service,1,I'm frustrated with Loan Service — the app keeps crashing during login.,2026-05-03 20:36:38
+298,CUST1203,social_media,Loan Service,3,Question about how interest is calculated on Loan Service.,2026-04-11 20:36:38
+299,CUST1823,app_review,Mobile App,1,I'm frustrated with Mobile App — the app keeps crashing during login. This is asap.,2026-04-10 20:36:38
+300,CUST1335,social_media,Mobile App,4,Love the new features on Mobile App. Would recommend to friends.,2026-05-06 20:36:38
