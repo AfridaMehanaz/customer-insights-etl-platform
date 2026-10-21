@@ -1,5 +1,7 @@
 # Customer Insights ETL Platform
 
+[![CI](https://github.com/AfridaMehanaz/customer-insights-etl-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/AfridaMehanaz/customer-insights-etl-platform/actions/workflows/ci.yml)
+
 End-to-end ETL + LLM enrichment platform for customer feedback. Ingests raw
 feedback, cleans and normalizes it, enriches it with NLP (sentiment, topics,
 entities, urgency) via an LLM, loads it into a SQLite warehouse, and
